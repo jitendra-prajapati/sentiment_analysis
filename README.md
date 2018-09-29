@@ -23,7 +23,7 @@ the save file can be seen at ./predictor/ folder
 <br>
 
 ### training
-![training](sentiment_analysis/train.jpg)
+![training](train.PNG)
 <br><br>
 ### sample on predction
 ![prediction](shakeshack-1504212294.jpg)
