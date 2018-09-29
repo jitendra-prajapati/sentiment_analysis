@@ -2,7 +2,10 @@
 Counting the number of people in given image of crowd.
 <br>
 ## Setup
-<br><p>
+<p>
+<br>
+
+
 1. Setup the virtualenv using the environment.yml file.
 <br>
 2.use manage.py file to list the commands.
@@ -23,4 +26,4 @@ the save file can be seen at ./predictor/ folder
 ![training](sentiment_analysis/train.jpg)
 <br><br>
 ### sample on predction
-![prediction](sentiment_analysis/sample3.png)
+![prediction](sentiment_analysis/sample3.jpg)
